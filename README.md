@@ -1,1 +1,1 @@
-# Sistema-de-Gestao-de-Vendas-.NET-MVC
+# Sistema de Gestao de Vendas .NET MVC
